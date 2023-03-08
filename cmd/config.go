@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"azurePFW/azure/facade"
+	"github.com/NingYuanLin/azurePFW/azure/facade"
 	"bufio"
 	"fmt"
 	"github.com/spf13/cobra"

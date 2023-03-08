@@ -1,11 +1,11 @@
 package azureFacade
 
 import (
-	"azurePFW/azure/auth"
-	"azurePFW/azure/networkInterface"
-	"azurePFW/azure/publicIpAddress"
-	"azurePFW/utils/logger"
-	"azurePFW/utils/net/icmp"
+	"github.com/NingYuanLin/azurePFW/azure/auth"
+	"github.com/NingYuanLin/azurePFW/azure/networkInterface"
+	"github.com/NingYuanLin/azurePFW/azure/publicIpAddress"
+	"github.com/NingYuanLin/azurePFW/utils/logger"
+	"github.com/NingYuanLin/azurePFW/utils/net/icmp"
 	"context"
 	"errors"
 	"strconv"

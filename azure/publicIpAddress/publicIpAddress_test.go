@@ -1,7 +1,7 @@
 package publicIpAddress
 
 import (
-	"azurePFW/azure/auth"
+	"github.com/NingYuanLin/azurePFW/azure/auth"
 	"context"
 	"fmt"
 	"testing"

@@ -1,7 +1,7 @@
 package networkInterface
 
 import (
-	"azurePFW/azure/auth"
+	"github.com/NingYuanLin/azurePFW/azure/auth"
 	"context"
 	"testing"
 )

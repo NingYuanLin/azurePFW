@@ -1,7 +1,7 @@
 package networkInterface
 
 import (
-	"azurePFW/utils/logger"
+	"github.com/NingYuanLin/azurePFW/utils/logger"
 	"context"
 	"errors"
 	"github.com/Azure/azure-sdk-for-go/sdk/azcore/to"

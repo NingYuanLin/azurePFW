@@ -1,8 +1,8 @@
 package cmd
 
 import (
-	"azurePFW/azure/facade"
-	"azurePFW/utils/logger"
+	"github.com/NingYuanLin/azurePFW/azure/facade"
+	"github.com/NingYuanLin/azurePFW/utils/logger"
 	"github.com/spf13/cobra"
 	"time"
 )

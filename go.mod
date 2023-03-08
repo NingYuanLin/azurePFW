@@ -1,4 +1,4 @@
-module azurePFW
+module github.com/NingYuanLin/azurePFW
 
 go 1.19
 
