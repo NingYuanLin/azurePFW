@@ -2,7 +2,7 @@
 将该程序部署在a机器上，当a机器无法连通azure上的虚拟机时，自动切换虚拟机的ip
 ## 使用方法
 ### 1. 获取API
-在azure网页右上角的cloud shell中，选择shell，然后执行
+在azure网页右上角的cloud shell中，选择bash，然后执行
 ```
 sub_id=$(az account list --query [].id -o tsv) && az ad sp create-for-rbac --role contributor --scopes /subscriptions/$sub_id
 ```
